@@ -1,0 +1,15 @@
+.book-item {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .book-item h3 {
+    margin: 0;
+  }
+  
+  .book-item p {
+    margin-top: 5px;
+  }
+  
+  
